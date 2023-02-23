@@ -1,0 +1,7 @@
+ipython==8.8.0
+ipywidgets==7.7.2
+numpy==1.24.1
+openpyxl==3.0.10
+pandas==1.5.2
+qgrid==1.3.0
+seeq==58.2.1.184.25
